@@ -189,3 +189,9 @@ body {
   font-family: var(--ff-accent);
   color: var(--clr-primary-400);
 }
+
+.attribution {
+  font-family: var(--ff-base);
+  position: absolute;
+  bottom: 0px;
+}
